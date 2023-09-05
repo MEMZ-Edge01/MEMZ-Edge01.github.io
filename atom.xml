@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://memz-edge01.github.io</id>
+    <title>MEMZ_Edge的小站</title>
+    <updated>2023-09-05T14:02:26.375Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://memz-edge01.github.io"/>
+    <link rel="self" href="https://memz-edge01.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://memz-edge01.github.io/images/avatar.png</logo>
+    <icon>https://memz-edge01.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, MEMZ_Edge的小站</rights>
+    <entry>
+        <title type="html"><![CDATA[WindowsToGo-U盘里的Windows]]></title>
+        <id>https://memz-edge01.github.io/post/wintogo/</id>
+        <link href="https://memz-edge01.github.io/post/wintogo/">
+        </link>
+        <updated>2023-09-02T12:00:07.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p>UP:MEMZ_Edge<br>
+视频版：<a href="https://b23.tv/9L0JPNp">【WindowsToGo-随身携带的Windows系统-哔哩哔哩】 </a></p>
+<h1 id="1windows-to-go是啥">1.Windows to go是啥？</h1>
+<p>随身行走的Windows,就是把Windows装进U盘里边，在不管哪台电脑上获得相同的Windows数据，具体内容请看<a href="WindowsToGo%E5%88%B6%E4%BD%9C%E5%B7%A5%E5%85%B7%E9%93%BE%E6%8E%A5%EF%BC%9Ahttps://www.disktoohttps://learn.microsoft.com/zh-cn/windows/deployment/deploy-windows-to-go%E2%80%8B">微软官方介绍</a></p>
+<h1 id="2准备工具">2.准备工具</h1>
+<h2 id="1pe制作工具">1.PE制作工具</h2>
+<p>这一步可以有很多种工具，比如WinNT setup,EasyRC。<br>
+本文教程使用傲梅WinPE制作工具，<a href="https://www.disktool.cn/wintogo.html">下载地址在这</a></p>
+<h2 id="2windows的iso文件">2.Windows的iso文件</h2>
+<p>自行去微软官网或MSDN等镜像站下载</p>
+<h1 id="3教程开始">3.教程开始</h1>
+<p>1.打开工具2.1PE制作工具</p>
+<p>2.按类型，需求选择<br>
+<img src="https://memz-edge01.github.io/post-images/1693922254500.jpg" alt="" loading="lazy"><br>
+3.选择你刚刚下载的Windows镜像<br>
+<img src="https://memz-edge01.github.io/post-images/1693922238482.jpg" alt="" loading="lazy"><br>
+4.选择你要安装WinToGo的硬盘/分区<br>
+<img src="https://memz-edge01.github.io/post-images/1693922270312.jpg" alt="" loading="lazy"><br>
+<strong><strong><strong><strong>此操作会格式化数据！</strong></strong></strong></strong><br>
+<img src="https://memz-edge.rth1.app/Screenshot_2023-08-27-14-23-00-494_tv.danmaku.bili-edit.jpg" alt="" loading="lazy"><br>
+5.点击高级设置，像图中这样设置，获得更大的兼容性。<br>
+6.开机，猛按你主板的BIOS按键，通常为F11,Delet，F2,F5。<br>
+7.选择你的U盘，进入OOBE</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>https://memz-edge01.github.io/post/hello-gridea/</id>
+        <link href="https://memz-edge01.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="https://gridea.dev/">Gridea 主页</a><br>
+<a href="https://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
